@@ -1,0 +1,6 @@
+{
+  "name": "Gratitude Quest: The Superhero of Kindness!",
+  "description": "An interactive comic-book superhero educational game for primary school students based on KSSR Unit 2: Appreciating Others, starring Ameowzing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
